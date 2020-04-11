@@ -1,2 +1,2 @@
-# Python-Platzi
-Repo for Python Courses at Platzi
+# Master en Python
+Repo for Master in python course by Victor Robles
